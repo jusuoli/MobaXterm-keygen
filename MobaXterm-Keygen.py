@@ -105,7 +105,7 @@ def help():
     print('    <Version>:       The Version of MobaXterm')
     print('                     Example:    11.0')
     print('********************************************************************')
-    #print()
+    print()
     print('Example:')
     print('---------------------------------------------------------------------')
     print('    <Executive order>:python .\MobaXterm-Keygen.py "jusuoli" 11.0')
