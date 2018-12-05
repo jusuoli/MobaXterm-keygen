@@ -103,7 +103,7 @@ def help():
     print()
     print('    <UserName>:      The Name licensed to')
     print('    <Version>:       The Version of MobaXterm')
-    print('                     Example:    10.9')
+    print('                     Example:    11.0')
     print('********************************************************************')
     #print()
     print('Example:')

@@ -12,28 +12,22 @@ Usage:
 
     <UserName>:      The Name licensed to
     <Version>:       The Version of MobaXterm
-                     Example:    10.9
+                     Example:    11.0
 ```
 
-EXAMPLE1:
-
-```
-PS C:\Users\DoubleSine\Github\MobaXterm-Keygen> .\MobaXterm-Keygen.py "DoubleSine" 10.9
-[*] Success!
-[*] File generated: C:\Users\DoubleSine\Github\MobaXterm-Keygen\Custom.mxtpro
-[*] Please move or copy the newly-generated file to MobaXterm's installation path.
-```
-
-Then copy `Custom.mxtpro` to `C:\Program Files (x86)\Mobatek\MobaXterm`.
-EXAMPLE2:
+EXAMPLE:
 
 ```
 PS D:\03Code\Github\MobaXterm-keygen> python .\MobaXterm-Keygen.py "jusuoli" 11.0
 [*] Success!
 [*] File generated: D:\03Code\Github\MobaXterm-keygen\Custom.mxtpro
 [*] Please move or copy the newly-generated file to MobaXterm's installation path.
+```
+
+Then copy `Custom.mxtpro` to `C:\Program Files (x86)\Mobatek\MobaXterm`.
 
 ```
+
 
 ## Screenshot
 
