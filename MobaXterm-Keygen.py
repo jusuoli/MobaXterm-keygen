@@ -97,17 +97,14 @@ def GenerateLicense(Type : LicenseType, Count : int, UserName : str, MajorVersio
         f.writestr('Pro.key', data = EncodedLicenseString)
 
 def help():
-    print('********************************************************************')
+    print('---------------------------------------------------------------------')
     print('Usage:')
     print('    MobaXterm-Keygen.py <UserName> <Version>')
     print()
     print('    <UserName>:      The Name licensed to')
     print('    <Version>:       The Version of MobaXterm')
     print('                     Example:    11.0')
-    print('********************************************************************')
-    print()
     print('Example:')
-    print('---------------------------------------------------------------------')
     print('    <Executive order>:python .\MobaXterm-Keygen.py "jusuoli" 11.0')
     print('---------------------------------------------------------------------')
 
