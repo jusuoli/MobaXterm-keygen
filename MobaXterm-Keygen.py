@@ -1,7 +1,6 @@
 # /usr/bin/env python3
 '''
 Author: Double Sine
-Modify: jusl 格式化代码 
 License: GPLv3
 '''
 import os
