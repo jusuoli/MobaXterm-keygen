@@ -117,10 +117,7 @@ def help():
     print('    <UserName>:      The Name licensed to')
     print('    <Version>:       The Version of MobaXterm')
     print('                     Example:    11.0')
-    print('Example:')
-    print('    <Executive order>:python .\MobaXterm-Keygen.py "jusuoli" 11.0')
     print('---------------------------------------------------------------------')
-
 
 if __name__ == '__main__':
     if len(sys.argv) != 3:
