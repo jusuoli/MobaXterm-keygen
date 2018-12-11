@@ -1,7 +1,7 @@
 # /usr/bin/env python3
 '''
 Author: Double Sine
-addjusl
+Modify：jusl 20181211 add git deploy
 License: GPLv3
 '''
 import os
