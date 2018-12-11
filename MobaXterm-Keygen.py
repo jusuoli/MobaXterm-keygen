@@ -2,6 +2,7 @@
 '''
 Author: Double Sine
 Modify：jusl 20181211 add git deploy
+Modify：jusl 20181211 增加工作流配置
 License: GPLv3
 '''
 import os
